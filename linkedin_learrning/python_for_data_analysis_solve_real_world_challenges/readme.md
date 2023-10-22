@@ -45,5 +45,5 @@ Focus on what you want your audience to get out of your visual, and try to use p
 - Iin the use of color, they've limited the number of colors to two, moving all supporting data points to a neutral gray, while highlighting the important parts of the graph in blue. 
 - You can see the creative use of the gestalt principle in the line graph and the subtitle that relates Ocean Park in blue to Signal Similarity. 
 
-###### The chart on the right objectively tells a better story than the one on the left. The left chart is informing the audience of the groups and their performance, while the right is communicating the story about Ocean Park branch.
+##### The chart on the right objectively tells a better story than the one on the left. The left chart is informing the audience of the groups and their performance, while the right is communicating the story about Ocean Park branch.
  
