@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*$py.class
 
 # C extensions
 *.so
@@ -22,7 +23,6 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
-*.html
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -89,3 +89,10 @@ target/
 
 # Mypy cache
 .mypy_cache/
+
+# Scrapy stuff:
+.scrapy
+
+# IPython
+profile_default/
+ipython_config.py
