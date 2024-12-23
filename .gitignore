@@ -103,6 +103,7 @@ target/
 *.map        # MapServer map file
 *.osm        # OpenStreetMap data
 *.geojson    # GeoJson file
+linkedin_learrning/geospatial_data_analytics_essential_training/data/2010_nats.geojson
 
 
 
