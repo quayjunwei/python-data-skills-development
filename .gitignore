@@ -80,6 +80,31 @@ target/
 *.csv
 *.xlsx
 
+
+# GIS-specific file types
+*.shp        # Shapefile
+*.shx        # Shapefile index
+*.dbf        # Shapefile attribute data
+*.prj        # Shapefile projection
+*.sbn        # Shapefile spatial index
+*.sbx        # Shapefile spatial index
+*.qgs        # QGIS project file
+*.gdb        # Esri file geodatabase
+*.mdb        # Microsoft Access database (used in older Esri geodatabases)
+*.kml        # Keyhole Markup Language
+*.kmz        # Compressed KML
+*.tif        # GeoTIFF
+*.tiff       # GeoTIFF
+*.aux        # Auxiliary files for rasters
+*.ovr        # Overview files for rasters
+*.vrt        # Virtual rasters
+*.gpkg       # GeoPackage
+*.grd        # GRASS raster
+*.map        # MapServer map file
+*.osm        # OpenStreetMap data
+*.geojson    # GeoJson file
+
+
 # Mac OS-specific storage files
 .DS_Store
 
